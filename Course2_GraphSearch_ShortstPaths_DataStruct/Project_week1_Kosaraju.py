@@ -1,4 +1,4 @@
-"""Kosaraju algorithm in order to find the size of the largest Strongly connected components (SCCs) of a graph"""
+"""Kosaraju algorithm in order to find the size of the largest Strongly connected components (SCCs) of a graph."""
 
 
 
