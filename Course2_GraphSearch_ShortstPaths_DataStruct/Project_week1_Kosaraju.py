@@ -3,11 +3,6 @@
 #Import my function to visualize the graph
 import sys
 
-sys.path.append("../../1(Divide and Conquer, Sorting and Searching, and Randomized Algorithms/Week4/Project")
-sys.setrecursionlimit(10000000)
-from Visualize_a_Graph import visualize_graph
-
-
 def parse_input(input_file):
     """Function to parse the input file into adj_list
     Input:: txt file wih the vertex label in first column is the tail and the vertex label in second column is the head.
