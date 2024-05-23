@@ -1,7 +1,6 @@
 """Kosaraju algorithm in order to find the size of the largest Strongly connected components (SCCs) of a graph"""
 
-#Import my function to visualize the graph
-import sys
+
 
 def parse_input(input_file):
     """Function to parse the input file into adj_list
